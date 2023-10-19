@@ -1,1 +1,2 @@
-TO EASILY RUN THIS PROGRAM YOU HAVE TO MAKE SURE THAT YOU HAVE "
+TO EASILY RUN THIS PROGRAM YOU HAVE TO MAKE SURE THAT YOU HAVE "qrcode" and "pywin32" installed in your site-packages in python.
+You can easily install both packages using cmd by writing this code - pip install <name of module>.
